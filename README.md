@@ -1,8 +1,8 @@
 # CyberSecurity-Works
-Implementing Honeypot, Honeynets, Simple Malware Classifier, RSA algorithm.
-Learning Python's Socket library
+1. Implementing Honeypot, Honeynets, Simple Malware Classifier, RSA algorithm and Learning Python's Socket library
+2. Malware Classification using ML
 
-#Malware Classification using Machine Learning
+# Malware Classification using Machine Learning
 
 The project focuses on the classification of malware and legitimate software using machine learning techniques. The dataset used for this project is the "MalwareData.csv" file. The project follows the following key steps:
 
